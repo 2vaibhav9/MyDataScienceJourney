@@ -1,0 +1,4 @@
+Week 1 Practice:
+1. Modify intro_python.py to ask user input for name and age.
+2. In greet_tool.py, add a new shift: "afternoon"
+3. Create a new file 'fav_items.py' and print 5 favorite things using a list and loop.
